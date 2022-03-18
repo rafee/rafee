@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  This is what my coding profile looks like!
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=rafee&show_icons=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafee&theme=dracula&layout=compact&hide=c%2B%2B" />
